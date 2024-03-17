@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AjithEzhumalai
 - 👀 I’m interested in SQL, Power Bi, Python.
 - 🌱 I’m currently learning AIML.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ ajithezhumalai30@gmail.com  
 
 <!---
